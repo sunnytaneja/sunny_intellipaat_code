@@ -1,0 +1,264 @@
+{
+  "1": [
+    {
+      "id": 101,
+      "title": "Introduction"
+    },
+    {
+      "id": 102,
+      "title": "Setting Up Your Environment"
+    },
+    {
+      "id": 103,
+      "title": "Variables & Data Types"
+    },
+    {
+      "id": 104,
+      "title": "Operators & Expressions"
+    },
+    {
+      "id": 105,
+      "title": "Strings"
+    },
+    {
+      "id": 106,
+      "title": "Conditionals"
+    },
+    {
+      "id": 107,
+      "title": "Loops"
+    },
+    {
+      "id": 108,
+      "title": "Lists & Tuples"
+    },
+    {
+      "id": 109,
+      "title": "Dictionaries & Sets"
+    },
+    {
+      "id": 110,
+      "title": "Functions"
+    },
+    {
+      "id": 111,
+      "title": "Scope & Closures"
+    },
+    {
+      "id": 112,
+      "title": "Modules & Packages"
+    },
+    {
+      "id": 113,
+      "title": "File Handling"
+    },
+    {
+      "id": 114,
+      "title": "Error Handling"
+    },
+    {
+      "id": 115,
+      "title": "OOP Basics"
+    },
+    {
+      "id": 116,
+      "title": "Inheritance & Polymorphism"
+    },
+    {
+      "id": 117,
+      "title": "Decorators & Generators"
+    },
+    {
+      "id": 118,
+      "title": "Working with APIs"
+    },
+    {
+      "id": 119,
+      "title": "Testing with pytest"
+    },
+    {
+      "id": 120,
+      "title": "Final Project"
+    }
+  ],
+  "2": [
+    {
+      "id": 201,
+      "title": "Introduction to Generative AI"
+    },
+    {
+      "id": 202,
+      "title": "How Language Models Work"
+    },
+    {
+      "id": 203,
+      "title": "Tokens & Embeddings"
+    },
+    {
+      "id": 204,
+      "title": "Prompt Engineering Basics"
+    },
+    {
+      "id": 205,
+      "title": "Advanced Prompting"
+    },
+    {
+      "id": 206,
+      "title": "Working with LLM APIs"
+    },
+    {
+      "id": 207,
+      "title": "Structured Outputs"
+    },
+    {
+      "id": 208,
+      "title": "Retrieval-Augmented Generation"
+    },
+    {
+      "id": 209,
+      "title": "Vector Databases"
+    },
+    {
+      "id": 210,
+      "title": "Fine-Tuning Concepts"
+    },
+    {
+      "id": 211,
+      "title": "Agents & Tool Use"
+    },
+    {
+      "id": 212,
+      "title": "Evaluating Outputs"
+    },
+    {
+      "id": 213,
+      "title": "Image Generation Models"
+    },
+    {
+      "id": 214,
+      "title": "Safety & Responsible AI"
+    },
+    {
+      "id": 215,
+      "title": "Deploying GenAI Apps"
+    },
+    {
+      "id": 216,
+      "title": "Capstone Project"
+    }
+  ],
+  "3": [
+    {
+      "id": 301,
+      "title": "Course Overview"
+    },
+    {
+      "id": 302,
+      "title": "Web Fundamentals"
+    },
+    {
+      "id": 303,
+      "title": "HTML Essentials"
+    },
+    {
+      "id": 304,
+      "title": "CSS Layouts"
+    },
+    {
+      "id": 305,
+      "title": "Responsive Design"
+    },
+    {
+      "id": 306,
+      "title": "JavaScript Basics"
+    },
+    {
+      "id": 307,
+      "title": "DOM Manipulation"
+    },
+    {
+      "id": 308,
+      "title": "Async JavaScript"
+    },
+    {
+      "id": 309,
+      "title": "Git & GitHub"
+    },
+    {
+      "id": 310,
+      "title": "React Fundamentals"
+    },
+    {
+      "id": 311,
+      "title": "State Management"
+    },
+    {
+      "id": 312,
+      "title": "Routing"
+    },
+    {
+      "id": 313,
+      "title": "Forms & Validation"
+    },
+    {
+      "id": 314,
+      "title": "Node.js Basics"
+    },
+    {
+      "id": 315,
+      "title": "Express Servers"
+    },
+    {
+      "id": 316,
+      "title": "REST API Design"
+    },
+    {
+      "id": 317,
+      "title": "Databases & SQL"
+    },
+    {
+      "id": 318,
+      "title": "ORMs"
+    },
+    {
+      "id": 319,
+      "title": "Authentication"
+    },
+    {
+      "id": 320,
+      "title": "Authorization"
+    },
+    {
+      "id": 321,
+      "title": "File Uploads"
+    },
+    {
+      "id": 322,
+      "title": "Testing the Stack"
+    },
+    {
+      "id": 323,
+      "title": "CI/CD Basics"
+    },
+    {
+      "id": 324,
+      "title": "Docker Basics"
+    },
+    {
+      "id": 325,
+      "title": "Deployment"
+    },
+    {
+      "id": 326,
+      "title": "Performance Tuning"
+    },
+    {
+      "id": 327,
+      "title": "Security Best Practices"
+    },
+    {
+      "id": 328,
+      "title": "Capstone Project"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <string name="valid_email">test@example.com</string>
+    <string name="valid_password">password123</string>
+    <string name="error_no_connection">No network connection</string>
+    <string name="title">title</string>
+    <string name="id">id</string>
+    <string name="instructor">instructor</string>
+    <string name="progress">progress</string>
+    <string name="lessons">lessons</string>
+    <string name="my_course">My Courses</string>
+    <string name="no_courses_yet">no_courses_yet</string>
+    <string name="could_not_load_courses">Couldn\'t load courses</string>
+    <string name="course_enroll">Courses you enroll in will show up here.\n</string>
+    <string name="retry">Retry</string>
+    <string name="couldn_t_refresh_showing_saved_courses">Couldn\'t refresh. Showing saved courses.</string>
+    <string name="course_details">Course details</string>
+    <string name="back">Back</string>
+    <string name="this_course_isn_t_available">This course isn\'t available.</string>
+    <string name="of_lessons_completed">%1$d of %2$d lessons completed (%3$d%)</string>
+    <string name="completed">✓ Completed</string>
+    <string name="pending">○ Pending</string>
+    <string name="mark_done">Mark done</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_in_to_continue_learning">Sign in to continue learning</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
