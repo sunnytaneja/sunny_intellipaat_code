@@ -2,7 +2,7 @@
 
 Android app (Kotlin, Jetpack Compose, MVVM + Clean Architecture): login, course dashboard, course details with lesson completion, and offline support.
 
-**Run:** open the project in Android Studio (Koala or newer, JDK 17), let Gradle sync, run the `app` configuration. Demo login: `test@example.com` / `Password1`.
+**Run:** open the project in Android Studio (Koala or newer, JDK 17), let Gradle sync, run the `app` configuration. Demo login: `test@example.com` / `password123`.
 **Tests:** `./gradlew testDebugUnitTest`
 
 ## 1. Architecture
@@ -23,3 +23,10 @@ Tokens would never go in plain `SharedPreferences`, Room or logs. I would keep t
 
 ## 5. Second platform (iOS)
 Same layering in Swift: SwiftUI views bound to `@Observable` view models (MVVM), use cases/repository protocols in a domain module, `URLSession` with async/await for the API, and SwiftData (or Core Data) as the local store, observed by the view models just as Room is via Flow. Navigation with `NavigationStack`; the token goes in the Keychain; `XCTest` for the progress and view model tests. The domain rules stay identical, so the logic ports one-to-one.
+
+## Video ref. 
+https://drive.google.com/file/d/1brPf1AAkhmy-ZSlgaFI2y59D0cf-SaG_/view?usp=sharing
+
+## Screenshots
+| Login | Dashboard | Course Details | https://drive.google.com/file/d/1_ZIRMKGhD6TA1cEwraOahDpAo6lwI9Yx/view?usp=sharing | https://drive.google.com/file/d/1fIbQ3lzSiraSdQH0kI0JGJ7laEWsg-af/view?usp=sharing |
+https://drive.google.com/file/d/1lYKA_anKRk9fNsZt-LwJHFyy0C4SQQR4/view?usp=sharing
